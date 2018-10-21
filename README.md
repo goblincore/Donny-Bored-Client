@@ -3,7 +3,7 @@
 
 **Above: a screenshot of a composition created using this app**
 
-## Demo Link : https://dry-stream-91854.herokuapp.com/  
+## Demo Link : https://bored-client.herokuapp.com/ 
 
 **Demo Login: jonny2lips** 
 
