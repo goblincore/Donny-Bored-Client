@@ -28,7 +28,7 @@ The idea for **Bored**  has its origins in my past life as an art school student
  * __Additional info:__ Cloud storage of images provided through cloudinary API via multer middleware; slightly modified react-dropzone library for dropzone implementation and a modified version of the react-resizable-rotable-draggable library
  * __Future plans__ - continued development and refinement of existing and new features while improving and revising my code and thinking of better ways to organize the data. I'd like to add the ability for a user to publish board to a gallery of publicly viewable boards, the ability to output the page to an image (perhaps something like html2canvas), pagination, ability for the user to adjust the z-index, and various sorting for the boards and a better dashboard. _**Eventually the whole thing will run on a decentralized blockchain and provide the capability for machine learning/artificial intelligence/neural network applications, with the ultimate goal being that of sentience and self-governance.**_
 
-#### API Documentation can be found on the server side repo: https://github.com/goblincore/Donny-Bored-Server
+#### API Documentation and description of the data schema can be found on the server side repo: https://github.com/goblincore/Donny-Bored-Server
 
 ### Features
 
